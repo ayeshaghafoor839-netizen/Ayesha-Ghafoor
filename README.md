@@ -1,11 +1,23 @@
-# Student Result System
+# Smart Finance Dashboard
 
-This is a simple Python project.
+A Python-based financial analysis tool developed by an MSc Mathematics graduate.
 
-Features:
-- Add students
-- Store marks
-- View results
+## Features
 
-Created by:
-Your Name
+- Loan EMI Calculator
+- Total Interest Analysis
+- Savings Growth Calculator
+- Financial Planning Support
+
+## Technologies
+
+- Python
+- Mathematical Modelling
+- Financial Calculations
+
+## Future Improvements
+
+- Django Web Version
+- Data Visualization
+- PDF Reports
+- User Accounts
