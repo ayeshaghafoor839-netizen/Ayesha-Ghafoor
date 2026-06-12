@@ -1,2 +1,11 @@
-# Ayesha-Ghafoor
-Python and Django projects created during my learning journey.
+# Student Result System
+
+This is a simple Python project.
+
+Features:
+- Add students
+- Store marks
+- View results
+
+Created by:
+Your Name
